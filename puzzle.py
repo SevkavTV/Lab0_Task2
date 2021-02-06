@@ -1,5 +1,6 @@
 '''
 Lab 0, Task 2. Archakov Vsevolod
+GitHub link: https://github.com/SevkavTV/Lab0_Task2.git
 '''
 
 
